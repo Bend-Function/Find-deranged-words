@@ -1,7 +1,7 @@
 # Author: Bend Function
 import csv
 
-words = input()
+words = input().lower()
 # read dictionary from csv
 csvFile = open("ecdict.csv", "r", encoding="utf-8")
 reader = csv.reader(csvFile)
