@@ -1,7 +1,7 @@
 # Find-deranged-words
 Find deranged words for test
 
-I met some test like this: 
+I met some tests like this: 
 "FORDFA-have enough money for something."
 
 Tescher want we find the correct form in "FORDFA". I know it's "Afford" but it takes me long time.
