@@ -33,3 +33,7 @@ oerh
 ['hore', ' [人名] [英格兰人姓氏] 霍尔 Hoare的变体']
 ['hero', 'n. 英雄, 超越常人者, 男主角']
 ```
+
+### Thanks
+dictionary file is form
+https://github.com/skywind3000/ECDICT
